@@ -5,4 +5,4 @@
 This web app is based on GitHub API and this helps to find Github user's profile.
 
 
-![alt text](https://pankaj846.github.io/github-profile-search/sample.png)
+![sample image](https://github.com/pankaj846/github-profile-search/blob/master/sample.PNG)
