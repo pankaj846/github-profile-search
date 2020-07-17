@@ -1,1 +1,1 @@
-# githubfinder
+# Github Profile Search App
